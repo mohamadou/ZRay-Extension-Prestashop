@@ -1,3 +1,10 @@
 # ZRay-Extension-Prestashop
 Zend Server Plugin for Prestashop
-Description
+
+Requirements:
+Note: this plugin is only tested it on Zend Server 8.5.0
+
+Installation:
+To use  it, copy the prestashop folder on your zend-server plugins folder.
+
+
