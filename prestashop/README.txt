@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The PrestaShop plugin extends Z-Ray to display all the details about PrestaShopcode elements, with information about crons, cached objects, plugins and themes, hooks and additional profiling information that is useful during development.
 The PrestaShop plugin also defines the routing logic for PrestaShop  requests - for better events aggregation in Zend Server, and improved results for URLs in URL Insight.
 
@@ -8,3 +9,6 @@ The PrestaShop plugin also defines the routing logic for PrestaShop  requests - 
 - **Hooks**: outlines all the PrestaShop  hooks triggered during execution. See the name of the hook, it's type (action/filter), the file path, and the time it took to execute.
 - **WP Query**: displays the current main PrestaShop  query (e.g. the post query).
 - **Crons**: gives insight into the PrestaShop  cron system. View the hooked functions used, their schedule, any defined arguments for the cron event, and the time of the next execution.
+=======
+The PrestaShop plugin extends Z-Ray to display all the details about PrestaShop code elements, with information about  cached objects, hook and themes, controller, smarty, css, js and additional profiling information that is useful during development.
+>>>>>>> origin/master
