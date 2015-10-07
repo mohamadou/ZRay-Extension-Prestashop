@@ -19,7 +19,8 @@ class PrestashopController {
                                     'Left Column' => ($_controller->display_column_left) ? 'Enabled':'Desabled',
                                     'Right Column' => ($_controller->display_column_right) ? 'Enabled' : 'Desabled',
                                     'Token' => (Configuration::get('PS_TOKEN_ENABLE')) ? 'Valid' : 'Not Valid',
-
+                                     'Auto Ridirection' => ($_controller->authRedirection) ? 'True' : 'False',
+                                    'SSL' => ($_controller->ssl) ? 'True' : 'False',
                                    );
 
     }
