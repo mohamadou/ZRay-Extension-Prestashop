@@ -3,7 +3,7 @@
   "display_name" : "PrestaShop",
   "version" : "1.0.0",
   "type" : ["zray"],
-  "eula" : "EULA.txt",
+  "eula" : "LICENSE.txt",
   "readme" : "README.txt",
   "logo" : "logo.png"
 }
