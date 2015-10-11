@@ -2,7 +2,7 @@
 
 
     // Create new prestashop extension
-    $zre = new \ZRayExtension('Prestashop');
+    $zre = new \ZRayExtension('PrestaShop');
 
 
     $zre->setMetadata(array(
